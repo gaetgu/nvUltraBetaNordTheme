@@ -25,10 +25,12 @@
 	"sidebarEditInsertionPointColor" : "496268",
 
 	"strong" : {
-		"bold" : 1
+        "bold" : 1,
+        "foregroundColor" : "8FBCBB"
 	},
 	"emphasis" : {
-		"italic" : 1
+        "italic" : 1,
+        "foregroundColor" : "8FBCBB"
 	},
 	"superscript" : {
 		"superscript" : 1
@@ -46,10 +48,10 @@
 		"foregroundColor" : "cb4b16"
 	},
 	"criticHighlight" : {
-		"foregroundColor" : "6c71c4"
+		"foregroundColor" : "8FBCBB"
 	},
 	"criticComment" : {
-		"foregroundColor" : "268bd2"
+		"foregroundColor" : "8FBCBB"
 	},
 	"blockquote" : {
 		"foregroundColor" : "93a1a1",
@@ -84,7 +86,7 @@
 		"foregroundColor" : "586e75"
 	},
 	"orderedList" : {
-		"foregroundColor" : "ECEFF4"
+		"foregroundColor" : "A3BE8C"
 	},
 	"table" : {
 		"backgroundColor" : "073642"
@@ -99,7 +101,7 @@
 		"foregroundColor" : "88C0D0"
 	},
 	"brackets" : {
-		"foregroundColor" : "88C0D0"
+		"foregroundColor" : "5E81AC"
 	},
 	"quoteDouble" : {
 		"foregroundColor" : "8FBCBB"
@@ -120,10 +122,10 @@
 		"foregroundColor" : "d33682"
 	},
 	"footnote" : {
-		"foregroundColor" : "2aa198"
+		"foregroundColor" : "EBCB8B"
 	},
 	"definitionFootnote" : {
-		"foregroundColor" : "2aa198"
+		"foregroundColor" : "EBCB8B"
 	},
 	"glossary" : {
 		"foregroundColor" : "dc322f"

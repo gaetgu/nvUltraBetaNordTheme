@@ -13,7 +13,7 @@ If you like the Nord theme or nvUltra, feel free to file a fork request, or an i
 
 Clone or download this repository. Unzip the package and copy the `nord.theme` file.
 
-Now go the preferences pane in nvUltra by pressing `⌘+,` on macOS, or `^+,` on Windows. 
+Now go the preferences pane in nvUltra by pressing `⌘+,`.
 ![Preferences](https://github.com/gaetgu/nvUltraBetaNordTheme/blob/master/images/Screen%20Shot%202020-05-31%20at%202.29.32%20PM.png?raw=true)
 
 Go to the *Appearance* tab, and click *Open Themes Folder* at the top right.
